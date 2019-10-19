@@ -3,7 +3,9 @@
 This app update your Twitter profile banner with a random ikachan banner. There are 52144048642943865156821842963009777645716183826377660210582528000 patterns!
 
 ![banner_1](./images/banner_1.png)
+---
 ![banner_2](./images/banner_2.png)
+---
 ![banner_3](./images/banner_3.png)
 
 ## Twitter API
